@@ -1,0 +1,18 @@
+{
+    "dbcps":{
+        "pay":
+            {
+                "DriverClassName":"com.mysql.jdbc.Driver",
+                "Url":"jdbc:mysql://127.0.0.1:3306/jrj-pay?useUnicode=true&characterEncoding=utf8",
+                "Username":"root",
+                "Password":"",
+                "InitialSize":2,
+                "MinIdle":2,
+                "MaxIdle":100,
+                "MaxWait":100,
+                "MaxActive":15,
+                "OtherProps":{"TestOnBorrow":true, "ValidationQuery":"select 1 "}
+            }
+    }
+    
+}

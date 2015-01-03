@@ -1,0 +1,25 @@
+--- !com.yunmall.ym.net.http.response.FollowsResult
+id: 1
+errorCode: 0
+serverMsg: success
+command: getFollows
+followList:
+  -
+    type: 1
+    brand:
+      -
+        name: prada
+        user:
+           name:zhangjie
+        products:
+          -
+            id:zhangjie
+            
+      -
+        name: nike
+      -
+        name: addiss
+  -
+    type: 2
+  -
+    type: 3

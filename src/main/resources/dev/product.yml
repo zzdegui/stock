@@ -1,0 +1,8 @@
+--- !com.yunmall.ym.net.http.response.PublicProductPicResult
+id: 1
+errorCode: 0
+serverMsg: success
+command: PublicProduct
+unReadMsgCount:
+    unReadTradeRemindCount: 99
+imageToken: 1x3e4rtc8bbb

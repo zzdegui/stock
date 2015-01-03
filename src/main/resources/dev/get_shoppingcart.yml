@@ -1,0 +1,10 @@
+--- !com.yunmall.ym.net.http.response.ShoppingCartGroupsResult
+command: getshopping
+shoppingCartGroups: 
+  - !com.yunmall.ym.net.model.ShoppingCartGroup
+    id: "1"
+    shoppingCartItems: 
+      - !com.yunmall.ym.net.model.ShoppingCartItem
+        id: "222"
+      - !com.yunmall.ym.net.model.ShoppingCartItem
+        id: "222"

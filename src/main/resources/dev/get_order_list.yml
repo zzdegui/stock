@@ -1,0 +1,12 @@
+--- !com.yunmall.ym.net.http.response.OrdersResult
+orders: 
+  - 
+    OrderState: READY_TO_PAY
+    seller:
+       name: zhangjie
+       shoppingCartItems:
+         -
+          count: 1
+         -
+          count: 2
+       
